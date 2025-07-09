@@ -1,0 +1,17 @@
+# Ignore virtual environments
+.venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+sources/
+
+deploy.sh

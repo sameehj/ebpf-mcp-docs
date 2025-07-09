@@ -1,0 +1,6 @@
+click
+pydantic
+rich
+tree-sitter
+pyyaml
+
